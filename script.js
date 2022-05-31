@@ -14,7 +14,7 @@ let params = {
 };
 
 // `new` instantiation Two.js
-const two = new two( params );
+const two = two( params );
 // append to `container`
 two.appendTo( container );
 
