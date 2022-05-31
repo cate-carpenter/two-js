@@ -42,7 +42,6 @@ two.bind('update', () => {
   // update what? 
   // shape.rotation = shape.rotation + .05;
   shape.rotation += .02;
-  shape
 });
 
 // Draw to page
