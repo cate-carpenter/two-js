@@ -1,0 +1,30 @@
+body {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #cec8ef;
+ }
+
+section {
+  background-color: #b19cd9;
+  Border-radius: 100%;
+  margin-top: 3em;
+
+}
+h1 {
+  text-align: center;
+  font-size: 2.3em;
+  margin-top: 2em;
+  font-family: 'IBM Plex Mono', monospace;
+}
+h3 {
+  background-color: whitesmoke;
+  border-radius: 10em;
+  padding: .7em;
+  text-align: center;
+  font-size: 1em;
+  font-family: 'Press Start 2P', cursive;
+  margin-bottom: 3em;
+  
+}
