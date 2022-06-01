@@ -5,7 +5,7 @@
 // https://codepen.io/manikoth/pen/yLvzeNw.js
 
 // Get drawing for drawing
-const container = document.querySelector('section');
+const container = document.querySelector('container');
 
 // parameters
 let params = {
